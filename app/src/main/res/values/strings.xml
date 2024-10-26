@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myPredictiveBackGestures</string>
+    <string name="tap_to_expand">Tap to expand</string>
+    <string name="long_text">"Predictive Back, a gesture navigation feature, lets users preview where the back swipe takes them.
+For example, using a back gesture can display an animated preview of the Home screen behind your app, as presented in the mockup in figure 1.
+Starting with Android 15, the developer option for predictive back animations is no longer available. System animations such as back-to-home, cross-task, and cross-activity now appear for apps that have opted in to the predictive back gesture either entirely or at an activity level.</string>
+</resources>
